@@ -1,1 +1,1 @@
-some information
+Getting some information is always helpful
